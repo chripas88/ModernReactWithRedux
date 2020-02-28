@@ -15,7 +15,7 @@ Key course content:
 * REST
 * Context
 
-Libraries used:
+Additional libraries used:
 
 * axios
 * lodash
